@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m learning **Advance latest Technologies** and sharpening my skills in **Next.js 14**
+- 🌱 I’m learning **Advance latest Technologies** and sharpening my skills in **Next.js 15 RC**
 - 💬 Ask me about **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**
 - 💡 Fun fact: I'm a tech enthusiast and interested in **geopolitics**
 - 📫 How to reach me: [Email](mailto:khalidkakar331@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar) | [GitHub](https://github.com/khalidkhankakar)

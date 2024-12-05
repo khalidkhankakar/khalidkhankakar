@@ -37,6 +37,8 @@
 
 ### 🚀 Featured Projects:
 
+- **[Vision Board](https://github.com/khalidkhankakar/vision-board)** - Vision board is online collaborative web app where you make organization work with teammates making the features rich board. Board is drawing canvas in which you different kind of design. [visit here](https://github.com/khalidkhankakar/vision-board)
+
 - **[DevPost Clone](https://devpost-gold.vercel.app/)** - A feature-rich clone of DevPost built with **Next.js**, **Clerk**, **MongoDB**, and **Tailwind CSS**. Supports article creation, updates, social login, and rich text editing. [GitHub Repo](https://github.com/khalidkhankakar/devpost)
   
 - **[DevOverflow](https://codeoverflow-eta.vercel.app/)** - A StackOverflow clone where users can post questions, give answers, and like posts. Built using **React.js**, **Next.js**, and **MongoDB**. [GitHub Repo](https://github.com/khalidkhankakar/codeoverflow)

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Khalid Kakar! 👋</h1>
+<h1 align="center">🙌 Hi there, I'm Khalid Kakar! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Enthusiast;Building+scalable+web+applications" alt="Typing SVG" />
@@ -49,8 +49,13 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalidkhankakar&show_icons=true&theme=radical" alt="Khalid's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidkhankakar&layout=compact&theme=radical" alt="Top languages">
+  
+<a href="https://github.com/khalidkhankakar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khalidkhankakar&theme=radical" />
+</a>
+<a href="https://github.com/khalidkhankakar/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidkhankakar&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 </p>
 
 ### 🌍 Connect with Me:

@@ -1,9 +1,11 @@
-<h1 align="center">🙌 Hi there, I'm Khalid Kakar! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Enthusiast;Building+scalable+web+applications" alt="Typing SVG" />
+<img src="https://github.com/user-attachments/assets/51fbbf69-806f-45ae-9a66-bf2fe14a0b7f" alt="Typing SVG" />
 </p>
 
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
+  🙌 Hi there, I'm Khalid Kakar! 👋
+</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="GitHub followers badge" />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="GitHub stars badge" />
@@ -12,10 +14,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m learning **Advance latest Technologies** and sharpening my skills in **Next.js 15 RC**
-- 💬 Ask me about **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **MongoDB**
-- 💡 Fun fact: I'm a tech enthusiast and interested in **geopolitics**
-- 📫 How to reach me: [Email](mailto:khalidkakar331@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar) | [GitHub](https://github.com/khalidkhankakar)
+- 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web.
+- 💬 Ask me about **Frontend**, **Backend**, **Productivity**.
+- 😲 Fun Fact: The "Hello, World!" program has been greeting developers since 1972! 👋💻
+- 📫 How to reach me: [Email](mailto:khalidkakar2468@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar1/) | [GitHub](https://github.com/khalidkhankakar)
 
 ---
 

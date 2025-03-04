@@ -60,6 +60,10 @@
 </a>
 </p>
 
+<p align='center'>
+  <img height=200 align="center" src="https://github-readme-streak-stats-dusky-phi.vercel.app/?user=khalidkhankakar%20&theme=radical&border_radius=11)](https://git.io/streak-stats" />
+</p>
+
 ### 🌍 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/khalid-khan-kakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

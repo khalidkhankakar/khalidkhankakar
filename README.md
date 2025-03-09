@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
-  🙌 Hi there, I'm Khalid Kakar! 👋
+  HI there, I'm KHALID KHAN KAKAR! 👋
 </h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="GitHub followers badge" />

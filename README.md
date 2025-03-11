@@ -14,10 +14,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web.
-- 💬 Ask me about **Frontend**, **Backend**, **Productivity**.
-- 😲 Fun Fact:The first-ever website is still live at [info.cern.ch](http://info.cern.ch/) – built by Tim Berners-Lee in 1991! 🌍💻
-- 📫 How to reach me: [Email](mailto:khalidkakar2468@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar1/) | [GitHub](https://github.com/khalidkhankakar)
+- 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web. ♨_♨
+- 💬 Ask me about **Frontend**, **Backend**, **Productivity**. (•_•)
+- 😲 Fun Fact:The first-ever website is still live at [info.cern.ch](http://info.cern.ch/) – built by Tim Berners-Lee in 1991! 🌍💻 ✍(◔◡◔)
+- 📫 How to reach me: [Email](mailto:khalidkakar2468@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar1/) | [GitHub](https://github.com/khalidkhankakar) ฅʕ•̫͡•ʔฅ
 
 ---
 

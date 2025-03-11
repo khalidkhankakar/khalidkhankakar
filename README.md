@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
- ¯\_( ͡° ͜ʖ ͡°)_/¯  HI THERE, I'M KHALID KHAN KAKAR! ¯\_( ͡° ͜ʖ ͡°)_/¯
+ ฅʕ•̫͡•ʔฅ  HI THERE, I'M KHALID KHAN KAKAR! (•_•)
 </h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="GitHub followers badge" />
@@ -15,8 +15,8 @@
 
 ### 👨‍💻 About Me:
 - 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web. ♨_♨
-- 💬 Ask me about **Frontend**, **Backend**, **Productivity**. (•_•)
-- 😲 Fun Fact:The first-ever website is still live at [info.cern.ch](http://info.cern.ch/) – built by Tim Berners-Lee in 1991! 🌍💻 ✍(◔◡◔)
+- 💬 Ask me about **Frontend**, **Backend**, **Productivity**. (★‿★)
+- 😲 Fun Fact:The first-ever website is still live at [info.cern.ch](http://info.cern.ch/) – built by Tim Berners-Lee in 1991! 🌍💻 /ᐠ｡ꞈ｡ᐟ\
 - 📫 How to reach me: [Email](mailto:khalidkakar2468@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-khan-kakar1/) | [GitHub](https://github.com/khalidkhankakar) ฅʕ•̫͡•ʔฅ
 
 ---

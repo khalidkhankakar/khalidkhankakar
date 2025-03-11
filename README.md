@@ -68,6 +68,10 @@
 <p align='center'>
   <img height=200 align="center" src="https://github-readme-streak-stats-dusky-phi.vercel.app/?user=khalidkhankakar%20&theme=radical&border_radius=11)](https://git.io/streak-stats" />
 </p>
+<p align='center'>
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=khalidkhankakar&theme=radical" />
+</p>
+
 
 ### 🌍 Connect with Me:
 <p align="center">

@@ -4,8 +4,15 @@
 </p>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
- ฅʕ•̫͡•ʔฅ  HI THERE, I'M KHALID KHAN KAKAR! (•_•)
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  <br>
+  <br>          
+ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;𝓚𝓗𝓐𝓛𝓘𝓓 𝓚𝓗𝓐𝓝 𝓚𝓐𝓚𝓐𝓡 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+ <br>
+ <br>
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 </h1>
+<br>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="GitHub followers badge" />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="GitHub stars badge" />

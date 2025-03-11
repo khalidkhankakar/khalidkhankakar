@@ -71,6 +71,9 @@
 <p align='center'>
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=khalidkhankakar&theme=radical" />
 </p>
+<p align='center'>
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=khalidkhankakar&theme=rogue" />
+</p>
 
 
 ### 🌍 Connect with Me:

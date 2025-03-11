@@ -5,10 +5,8 @@
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  <br>
   <br>          
- &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;𝓚𝓗𝓐𝓛𝓘𝓓 𝓚𝓗𝓐𝓝 𝓚𝓐𝓚𝓐𝓡 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
- <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;𝓚𝓗𝓐𝓛𝓘𝓓 𝓚𝓗𝓐𝓝 𝓚𝓐𝓚𝓐𝓡 &nbsp;&nbsp;&nbsp;&nbsp;
  <br>
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 </h1>

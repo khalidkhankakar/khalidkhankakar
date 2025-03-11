@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/51fbbf69-806f-45ae-9a66-bf2fe14a0b7f" alt="Typing SVG" />
 </p>
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
+<h1 align="center">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
   <br>          
  &nbsp;&nbsp;&nbsp;&nbsp;𝓚𝓗𝓐𝓛𝓘𝓓 𝓚𝓗𝓐𝓝 𝓚𝓐𝓚𝓐𝓡 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -72,7 +72,7 @@
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=khalidkhankakar&theme=radical" />
 </p>
 <p align='center'>
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=khalidkhankakar&theme=rogue" />
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=khalidkhankakar&theme=rogue&title=Kakar" />
 </p>
 
 

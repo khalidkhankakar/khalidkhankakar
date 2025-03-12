@@ -17,7 +17,7 @@
 </p>
 
 
-
+---
 ### 👨‍💻 About Me:
 - 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web. ♨_♨
 - 💬 Ask me about **Frontend**, **Backend**, **Productivity**. (★‿★)

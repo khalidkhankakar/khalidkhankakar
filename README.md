@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="GitHub stars badge" />
 </p>
 
----
+
 
 ### 👨‍💻 About Me:
 - 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web. ♨_♨

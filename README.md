@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/51fbbf69-806f-45ae-9a66-bf2fe14a0b7f" alt="Cover GITHUB Img" />
+<img src="https://github.com/user-attachments/assets/51fbbf69-806f-45ae-9a66-bf2fe14a0b7f" alt="Cover Img" />
 </p>
 
 <h1 align="center">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
-  <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel badge" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vcel badge" />
   <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge" />
 </p>
 

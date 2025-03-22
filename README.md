@@ -12,7 +12,7 @@
 </h1>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt=" badge" />
+  <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="k bge" />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="GHub stars badge" />
 </p>
 

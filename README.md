@@ -55,11 +55,11 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  
 <a href="https://github.com/khalidkhankakar/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khalidkhankakar&theme=radical" />
 </a>
 </p>
+
 <p align='center'>
 <a href="https://github.com/khalidkhankakar/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidkhankakar&layout=compact&langs_count=8&card_width=320&theme=radical" />
@@ -69,9 +69,11 @@
 <p align='center'>
   <img height=200 align="center" src="https://github-readme-streak-stats-dusky-phi.vercel.app/?user=khalidkhankakar%20&theme=radical&border_radius=11)](https://git.io/streak-stats" />
 </p>
+
 <p align='center'>
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=khalidkhankakar&theme=radical" />
 </p>
+
 <p align='center'>
   <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=khalidkhankakar&theme=rogue&title=Kakar" />
 </p>

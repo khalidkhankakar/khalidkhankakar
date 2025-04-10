@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/51fbbf69-806f-45ae-9a66-bf2fe14a0b7f" alt=" khalid khan " />
 </p>
-
 <h1 align="center">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
   <br>          
@@ -14,8 +13,6 @@
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="badge" />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="Gars khalid badge" />
 </p>
-
-
 ---
 ### 👨‍💻 About Me:
 - 🌱 I’m focusing focus on **performance**, **optimization**, and **clean code architecture** in web. ♨_♨

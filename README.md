@@ -87,5 +87,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalidkhankakar&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khalidkhankakar&style=flat-square&color=blue" alt="Profile Views count" />
 </p>

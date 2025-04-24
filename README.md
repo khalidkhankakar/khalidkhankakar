@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/26002a8f-4608-44c9-b6b0-77d81685ddb3" alt="Khalid khan kakar cover " />
+<img src="https://github.com/user-attachments/assets/26002a8f-4608-44c9-b6b0-77d81685ddb3" alt="Khalid khan kakar  " />
 </p>
 <h1 align="center">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░

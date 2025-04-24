@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/26002a8f-4608-44c9-b6b0-77d81685ddb3" alt="Khalid khan kakar cover image" />
+<img src="https://github.com/user-attachments/assets/26002a8f-4608-44c9-b6b0-77d81685ddb3" alt="Khalid khan kakar cover " />
 </p>
 <h1 align="center">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -8,7 +8,6 @@
  <br>
  ░░░░░░░░░░░░░░░░░░░░░░░░░
 </h1>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="badge" />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="khalid " />

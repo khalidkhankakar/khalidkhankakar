@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/e0a255bf-fc46-4302-b160-1f9e262b92f0" alt="Khalid khan" />
+<img src="https://github.com/user-attachments/assets/b727335c-8cdd-4954-9a18-a83d81aef1f9" alt="Khalid khan" />
 </p>
 <h1 align="center">
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░

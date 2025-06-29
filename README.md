@@ -2,11 +2,11 @@
 <img src="https://github.com/user-attachments/assets/b727335c-8cdd-4954-9a18-a83d81aef1f9" alt="Khalid khan kakar cover image" />
 </p>
 <h1 align="center">
- ░░░░░░░░░░░░░░░░
+ ░░░░░░░░░░░░░░░
   <br>     
  &nbsp;&nbsp;&nbsp; 🍂 𝓚𝓗𝓐𝓛𝓘𝓓 🍃 𝓚𝓗𝓐𝓝 🍀 𝓚𝓐𝓚𝓐𝓡 🍁&nbsp;&nbsp;&nbsp;
  <br>
-░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░
 </h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="  badge" />

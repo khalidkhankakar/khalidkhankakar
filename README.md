@@ -6,10 +6,10 @@
   <br>     
  &nbsp;&nbsp;&nbsp; 🍂 𝓚𝓗𝓐𝓛𝓘𝓓 🍃 𝓚𝓗𝓐𝓝 🍀 𝓚𝓐𝓚𝓐𝓡 🍁&nbsp;&nbsp;&nbsp;
  <br>
-░░░░░░░░░░░░░
+░░░░░░░░░░░░
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="badge github" />
+  <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="badge more " />
   <img src="https://img.shields.io/github/stars/khalidkhankakar?label=GitHub%20Stars&style=social" alt="khalid khan " />
 </p>
 

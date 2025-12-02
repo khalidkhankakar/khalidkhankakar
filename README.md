@@ -6,7 +6,7 @@
   <br>     
  &nbsp;&nbsp;&nbsp; 🍂 🅺🅷🅰🅻🅸🅳  🅺🅷🅰🅽  🅺🅰🅺🅰🆁 🍁&nbsp;&nbsp;&nbsp;
  <br>
-░░░░░░░░░░░░░░
+░░░░░░░░░░░░░
 </h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/khalidkhankakar?label=Followers&style=social" alt="khalid" />

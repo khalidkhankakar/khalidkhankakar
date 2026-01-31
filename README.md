@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/b727335c-8cdd-4954-9a18-a83d81aef1f9" alt="Khalid khan COVER IMG" />
 </p>
 <h1 align="center">
- ░░░░░░░░░░
+ ░░░░░░░░
   <br>     
  &nbsp;&nbsp;&nbsp; 🍂 🅺🅷🅰🅻🅸🅳  🅺🅷🅰🅽  🅺🅰🅺🅰🆁 🍁&nbsp;&nbsp;&nbsp;
  <br>

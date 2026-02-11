@@ -14,7 +14,7 @@
 </p>
  <p align='center'><b>CODEWARS BADGE</b> </p>
 <p align='center'>
-<img align='center' src="https://www.codewars.com/users/khalidkhankakar/badges/large" alt="khalid codewar badge" />
+<img align='center' src="https://www.codewars.com/users/khalidkhankakar/badges/large" alt="khalid codewar " />
 </p>
 
 ---
